@@ -129,7 +129,7 @@ Following is the image with lowest SSIM score (`0.47583`):
 
 Further slice-level analysis can be done by filtering all slices whose SSIM score is less than 0.6.
 
-#Citations
+# Citations
 
 ### Diffusion Models for Medical Anomaly Detection
 
