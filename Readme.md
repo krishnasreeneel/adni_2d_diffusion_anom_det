@@ -129,3 +129,36 @@ Following is the image with lowest SSIM score (`0.47583`):
 
 Further slice-level analysis can be done by filtering all slices whose SSIM score is less than 0.6.
 
+#Citations
+
+### Diffusion Models for Medical Anomaly Detection
+
+[Diffusion Models for Medical Anomaly Detection](https://arxiv.org/abs/2203.04306)
+
+```
+@article{wolleb2022diffusion,
+    title={Diffusion Models for Medical Anomaly Detection},
+    author={Wolleb, Julia and Bieder, Florentin and Sandkühler, Robin and Cattin, Philippe C},
+    year={2022},
+    journal={arXiv preprint arXiv:2203.04306}
+```
+
+### Monai (Medical Open Network For Artificial Intelligence)
+
+[Monai](https://monai.io), [Monai Github](https://github.com/Project-MONAI)
+
+### Generative Monai
+
+[Generative Monai](https://github.com/Project-MONAI/GenerativeModels)
+
+```
+@misc{pinaya2023generative,
+      title={Generative AI for Medical Imaging: extending the MONAI Framework}, 
+      author={Walter H. L. Pinaya and Mark S. Graham and Eric Kerfoot and Petru-Daniel Tudosiu and Jessica Dafflon and Virginia Fernandez and Pedro Sanchez and Julia Wolleb and Pedro F. da Costa and Ashay Patel and Hyungjin Chung and Can Zhao and Wei Peng and Zelong Liu and Xueyan Mei and Oeslle Lucena and Jong Chul Ye and Sotirios A. Tsaftaris and Prerna Dogra and Andrew Feng and Marc Modat and Parashkev Nachev and Sebastien Ourselin and M. Jorge Cardoso},
+      year={2023},
+      eprint={2307.15208},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
+
